@@ -1,6 +1,9 @@
 <template>
-  <div>
+  <UApp>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+    <UButton>Click me!</UButton>
+  </UApp>
 </template>
+<script setup>
+const variant = ref("primary");
+</script>
