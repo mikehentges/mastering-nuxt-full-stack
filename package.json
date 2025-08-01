@@ -20,6 +20,7 @@
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
+    "@iconify-json/heroicons": "^1.2.2",
     "husky": "^9.1.7"
   }
 }
